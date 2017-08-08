@@ -1,0 +1,17 @@
+---
+requirements: cli-jaas
+---
+
+# Nagios
+
+Nagios provides basic monitoring for hosts, services, and networks. It checks for working ping and SSH {details_link}
+
+## Quickstart
+
+{requirements}
+
+1. Relate the Nagios charm to any other charm, to monitor it.
+2. Select the Nagios application, click Expose and toggle Yes.
+3. Browse to the IP: (http://x.x.x.x)[http://x.x.x.x]
+4. Do another step here please.
+5. And another step thanks.
