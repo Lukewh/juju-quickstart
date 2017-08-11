@@ -4,4 +4,4 @@ This is a highly-active (HA) production ready Kubernetes cluster that includes l
 
 ## Operating Kubernetes
 
-Follow our [6 step tutorial](https://tutorials.ubuntu.com/tutorial/get-started-canonical-kubernetes) on how to operate this cluster.
+Follow {details_link} our [6 step tutorial](https://tutorials.ubuntu.com/tutorial/get-started-canonical-kubernetes) on how to operate this cluster.
