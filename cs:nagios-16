@@ -4,7 +4,7 @@ Nagios provides basic monitoring for hosts, services, and networks. It checks fo
 
 ## Quickstart
 
-**Requires:** {requires_cli}
+**Requires:** {requires_cli_link}
 
 1. Relate the Nagios charm to any other charm, to monitor it.
 2. Select the Nagios application, click Expose and toggle Yes.
