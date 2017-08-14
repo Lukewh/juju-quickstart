@@ -1,6 +1,6 @@
 # The Canonical Distribution of Kubernetes
 
-This is a highly-active (HA) production ready Kubernetes cluster that includes logging, monitoring, and the operational tools to automate deployment, scaling, and lifecycle management of your cluster {details_link}
+This is a highly-available (HA) production ready Kubernetes cluster that includes logging, monitoring, and the operational tools to automate deployment, scaling, and lifecycle management of your cluster {details_link}
 
 ## Operating Kubernetes
 
